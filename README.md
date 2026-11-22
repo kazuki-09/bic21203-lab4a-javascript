@@ -9,8 +9,9 @@
 ### Question 1 — Interactive Text Changer
 Updates the paragraph text from `"Welcome to my website!"` to `"Hello there!"` when **Change Message** is clicked.
 
-![Question 1 Output](screenshots/q1-output.png)
-![Uploading image.png…]()
+<img width="856" height="342" alt="image" src="https://github.com/user-attachments/assets/13191833-4ea2-451f-b339-a3798f37422d" />
+
+<img width="869" height="344" alt="image" src="https://github.com/user-attachments/assets/e7669a24-fb5b-4a0a-b8f1-978503dcdbf0" />
 
 
 ### Question 2 — Smart Number Validator
