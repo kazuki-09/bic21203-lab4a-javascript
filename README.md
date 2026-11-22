@@ -15,7 +15,7 @@ Updates the paragraph text from `"Welcome to my website!"` to `"Hello there!"` w
 
 
 ### Question 2 — Smart Number Validator
-Validates user input (`5`, `10`, `15`, `abc`, and empty/whitespace input) and displays the appropriate status message below the input.
+Validates user input (`5`, `10`, `15`, '10.5', `abc`, and empty/whitespace input) and displays the appropriate status message below the input.
 
 <img width="773" height="276" alt="image" src="https://github.com/user-attachments/assets/3a3078b8-f881-4746-9ff3-9f7e7a5d657c" />
 
