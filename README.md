@@ -10,6 +10,8 @@
 Updates the paragraph text from `"Welcome to my website!"` to `"Hello there!"` when **Change Message** is clicked.
 
 ![Question 1 Output](screenshots/q1-output.png)
+![Uploading image.png…]()
+
 
 ### Question 2 — Smart Number Validator
 Validates user input (`5`, `10`, `15`, `10.5`, `abc`, and empty/whitespace input) and displays the appropriate status message below the input.
