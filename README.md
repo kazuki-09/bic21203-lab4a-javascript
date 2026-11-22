@@ -28,7 +28,7 @@ Validates user input (`5`, `10`, `15`, `10.5`, `abc`, and empty/whitespace input
 <img width="756" height="270" alt="image" src="https://github.com/user-attachments/assets/b3560b9b-e2b6-4732-9e86-8b004dc60f7b" />
 
 ### Question 3 — Dynamic Number Generator
-Uses a `for` loop to generate `"The number is 1"` through `"The number is 5"` inside an `<ol>` list while clearing old items on repeated clicks to prevent duplicates.
+This webpage generates a numbered list from 1 to 5 when the user clicks the "Generate" button. A JavaScript for loop is used to create five list items dynamically.
 
 <img width="884" height="215" alt="image" src="https://github.com/user-attachments/assets/1d8439fa-6a56-47ee-bb4b-c5372d3b03ab" />
 
