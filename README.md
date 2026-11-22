@@ -1,32 +1,10 @@
 # BIC21203 - Lab #4a: Client-Side Scripting (JavaScript)
 
-**Name:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
+**Name:** MUHAMMAD HAZIM FAHIM BIN ARIFFIN 
+**Student ID:** CI250044
 **Course:** BIC21203 Web Development  
 
 ---
-
-## Overview
-This repository contains the solutions for **Lab #4a**, covering DOM selection, event listeners (`addEventListener()`), conditional input validation, `for` loops, and dynamic DOM element creation using safe `textContent` updates.
-
----
-
-## Project Structure
-- `q1/` — Question 1: Interactive Text Changer (`index.html`, `script.js`)
-- `q2/` — Question 2: Smart Number Validator (`index.html`, `script.js`)
-- `q3/` — Question 3: Dynamic Number Generator (`index.html`, `script.js`)
-- `README.md` — Lab documentation, instructions, and output screenshots
-
----
-
-## How to Run Each Question
-1. Clone or download this repository to your computer.
-2. Open the `index.html` file inside `q1/`, `q2/`, or `q3/` in any modern desktop web browser (such as Chrome, Edge, or Firefox).
-3. Interact with the button/input on the page to test the output.
-
----
-
-## Question Summaries & Output Screenshots
 
 ### Question 1 — Interactive Text Changer
 Updates the paragraph text from `"Welcome to my website!"` to `"Hello there!"` when **Change Message** is clicked.
